@@ -1,0 +1,3 @@
+C:\Users\marty\Desktop\web\obj\Debug\animals.njsprojAssemblyReference.cache
+C:\Users\marty\Desktop\web\obj\Debug\animals.njsproj.CoreCompileInputs.cache
+C:\Users\marty\Desktop\web\bin\Microsoft.NodejsTools.WebRole.dll
